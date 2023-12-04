@@ -1,0 +1,10 @@
+node_modules/
+.env
+logs/
+*.log
+*.bak
+config.js
+/build/
+.cache/
+/data/
+*.bson
